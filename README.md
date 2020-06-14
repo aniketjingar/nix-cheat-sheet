@@ -1,3 +1,3 @@
 # nix-cheat-sheet
 
-Cheat sheet for unix and git commands
+Cheat sheet for useful and important unix and git commands
