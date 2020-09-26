@@ -1,3 +1,6 @@
+## Useful Links
+* https://chris.beams.io/posts/git-commit/
+
 ## Github Basic Commands
 
 ### git init
