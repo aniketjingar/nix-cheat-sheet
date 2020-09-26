@@ -20,3 +20,4 @@
 * git fetch 
 * git checkout <file-name>
 * git rebase -i
+* git checkout -b
