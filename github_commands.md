@@ -19,3 +19,4 @@
 * git restore --staged <file-name>
 * git fetch 
 * git checkout <file-name>
+* git rebase -i
