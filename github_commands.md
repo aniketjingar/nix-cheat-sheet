@@ -4,6 +4,9 @@
 ## Github Basic Commands
 
 ### git init
+* This commands initializes a new empty git repository or reinitialize an existing repository
+* 
+
 ### git clone <https-url>
 ### git status
 ### git log
